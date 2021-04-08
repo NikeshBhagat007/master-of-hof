@@ -1,0 +1,11 @@
+.HOFtable
+{
+    margin:auto;
+    text-align: center;
+    border: 1px solid black;
+    color: blue;
+}
+
+.col-padding{
+    padding:10px;
+}
